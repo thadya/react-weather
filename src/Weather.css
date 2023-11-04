@@ -50,4 +50,21 @@
     margin-left: 5px;
   }
 
-  
+    .col-9 {
+        flex: 0 0 auto;
+        width: 75%;
+    }
+
+  input.btn.btn-primary.w-100{
+    background: blue;
+    padding: 6px 12px;
+  }
+  .row {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: calc(var(--bs-gutter-x)*-.5);
+    margin-right: calc(var(--bs-gutter-x)*-.5);
+    margin-top: calc(var(--bs-gutter-y)*-1);
+}
