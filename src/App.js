@@ -5,20 +5,18 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+      <div className="container">
+        <Weather defaultCity="London" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          This app was created by{" "}
+          <a href="">Thato Gumbo</a> and it is
+          open sourced on
+          <a href="">
+            {" "}
+            Github
+          </a>{" "}
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      </div>
     </div>
   );
 }
