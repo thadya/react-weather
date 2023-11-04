@@ -50,18 +50,4 @@
     margin-left: 5px;
   }
 
-    .col-9 {
-        flex: 0 0 auto;
-        width: 75%;
-    }
-
-  input.btn.btn-primary.w-100{
-    background: rgb(66, 66, 207);
-    padding: 24x 6px;
-    display: flex;
-
-  }
-  form {
-    display: block;
-    margin-top: 0em;
-}
+    
