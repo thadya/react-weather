@@ -8,10 +8,9 @@ function App() {
       <div className="container">
         <Weather defaultCity="London" />
         <p>
-          This app was created by{" "}
-          <a href="">Thato Gumbo</a> and it is
+          This app was created by Thato Gumbo and it is
           open sourced on
-          <a href="">
+          <a href="https://github.com/thadya/reactapp">
             {" "}
             Github
           </a>{" "}
