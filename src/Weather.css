@@ -57,7 +57,7 @@
 
   input.btn.btn-primary.w-100{
     background: blue;
-    padding: 6px 12px;
+    padding: 12px 24px;
   }
   .row {
     --bs-gutter-x: 1.5rem;
