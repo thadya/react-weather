@@ -57,16 +57,11 @@
 
   input.btn.btn-primary.w-100{
     background: rgb(66, 66, 207);
-    padding: 12px 24px;
+    padding: 24x 6px;
     display: flex;
 
   }
-  .row {
-    --bs-gutter-x: 1.5rem;
-    --bs-gutter-y: 0;
-    display: flex;
-    flex-wrap: wrap;
-    margin-left: calc(var(--bs-gutter-x)*-.5);
-    margin-right: calc(var(--bs-gutter-x)*-.5);
-    margin-top: calc(var(--bs-gutter-y)*-1);
+  form {
+    display: block;
+    margin-top: 0em;
 }
