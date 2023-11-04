@@ -2,7 +2,7 @@
     border: 1px solid #dadde1;
     border-radius: 4px;
     color: #878787;
-    padding: 16px;
+    padding: 20px;
     margin: 30px auto;
   }
   .Weather form {
@@ -30,6 +30,7 @@
     height: 64px;
     width: 64px;
     margin-right: 10px;
+    display: inline-block;
   }
   
   .Weather .temperature {
@@ -47,7 +48,7 @@
     position: relative;
     line-height: 1;
     top: -32px;
-    margin-left: 5px;
+    margin-left: 0px;
   }
 
   .ul {
