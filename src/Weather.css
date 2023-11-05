@@ -68,7 +68,7 @@
   border-radius: 0.375rem;
   color: #212529;
   color: var(--bs-body-color);
-  display: block;
+  display: inline-block;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
