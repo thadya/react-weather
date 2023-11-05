@@ -50,3 +50,15 @@
   margin-left: 0px;
   line-height: 1;
 }
+.col-6{
+
+  flex: 0 0 auto;
+  width: 50%;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: calc(var(--bs-gutter-x)*-.5);
+  margin-right: calc(var(--bs-gutter-x)*-.5);
+  margin-top: calc(var(--bs-gutter-y)*-1);
+}
