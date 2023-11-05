@@ -62,3 +62,26 @@
   margin-right: calc(var(--bs-gutter-x)*-.5);
   margin-top: calc(var(--bs-gutter-y)*-1);
 }
+.col-3 {
+  flex: 0 0 auto;
+  width: 25%;
+}
+.form-control {
+  -webkit-appearance: none;
+  appearance: none;
+  background-clip: padding-box;
+  background-color: #fff;
+  background-color: var(--bs-body-bg);
+  border: 1px solid #dee2e6;
+  border: var(--bs-border-width) solid var(--bs-border-color);
+  border-radius: 0.375rem;
+  border-radius: var(--bs-border-radius);
+  color: #212529;
+  color: var(--bs-body-color);
+  display: block;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  padding: 0.375rem 0.75rem;
+  width: 100%;
+}
