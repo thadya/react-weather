@@ -10,6 +10,8 @@
 
 .Weather form{
   margin-bottom: 20px;
+  position:relative;
+  max-width: 100%;
 }
 
 .Weather h1{
@@ -53,4 +55,7 @@
 input.btn.btn-primary.w-100{
 
   position: absolute;
+}
+form.input{
+  width: 100%;
 }
