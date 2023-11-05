@@ -65,7 +65,7 @@ input.btn.btn-primary.w-100{
   line-height: 1.5;
   width: 10%;
   border:2px solid  rgb(6, 6, 248)  ;
-  padding: 3px 12px;
+  padding: 3px -6px;
   
   }
   .form-control{
