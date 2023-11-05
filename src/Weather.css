@@ -55,17 +55,18 @@
 input.btn.btn-primary.w-100{
 background: rgb(6, 6, 248);
 color: white;
-padding: 6px 12px;
-width: 100%;
+
+width: 30%;
 }
 .col-6.ul{
 
-  float: right;
+  float: left;
+  display: flex;
 }
 .form-control{
   display: block;
-  width: 100%;
+  width: 50%;
   line-height: 1.5;
-  padding: 0px 12px;
+ 
 
 }
