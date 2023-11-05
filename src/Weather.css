@@ -55,7 +55,7 @@
 input.btn.btn-primary.w-100{
 background: rgb(6, 6, 248);
 color: white;
-
+line-height: 1.5;
 width: 10%;
 }
 .col-6.ul{
@@ -64,7 +64,7 @@ width: 10%;
   display: flex;
 }
 .form-control{
-  display: block;
+ 
   width: 50%;
   line-height: 1.5;
  
