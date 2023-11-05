@@ -59,3 +59,11 @@
     list-style: none;
     border-radius: 10px;
 }
+input.btn.btn-primary.w-100{
+  width: 150px;
+  background: #0d6efd;
+  display: inline-block;
+}
+input.form-control{
+  padding: 6px 12px;
+}
