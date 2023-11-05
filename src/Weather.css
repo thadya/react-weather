@@ -59,3 +59,14 @@
   margin-left: 0px;
   line-height: 1;
 }
+input.btn.btn-primary.w-100{
+  background: rgb(6, 6, 248);
+  color: white;
+  line-height: 1.5;
+  width: 10%;
+  border:2px solid  rgb(6, 6, 248)  ;
+  padding: 3px 1px;
+  
+  }
+ 
+  
