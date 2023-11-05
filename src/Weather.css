@@ -44,20 +44,12 @@
   .Weather .unit {
     color: rgb(33, 33, 33);
     font-size: 16px;
-    font-weight: 400;
+    font-weight: 200;
     position: relative;
     line-height: 1;
     top: -32px;
     margin-left: 0px;
   }
-
-  .ul {
-    margin: 0;
-    padding: 0;
-    float: right;
-
-  }
-  
   .container{
     box-shadow: rgba(37, 39, 89, 0.08) 0px 8px 8px 0;
     list-style: none;
@@ -67,13 +59,3 @@
     list-style: none;
     border-radius: 10px;
 }
-.col-3 {
-  flex: 0 0 auto;
-  width: 25%;
-}
-.col-9 {
-  flex: 0 0 auto;
-  width: 75%;
-}
-
-  
