@@ -50,3 +50,7 @@
   margin-left: 0px;
   line-height: 1;
 }
+input.btn.btn-primary.w-100{
+
+  position: absolute;
+}
