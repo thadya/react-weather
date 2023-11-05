@@ -20,7 +20,7 @@ export default function Weather(props) {
       });
     }
     function search() {
-      const apiKey = "2513f3c728b1b5ff4f4347e1a6af22b8";
+      const apiKey = "bbo92fedf0da044835d1bb77a377beat";
       let apiUrl = `https://api.shecodes.io/weather/v1/current?query=${city}&key=${apiKey}&units=metric`;
       axios.get(apiUrl).then(handleResponse);
     }
