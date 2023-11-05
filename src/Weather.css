@@ -58,7 +58,7 @@ color: white;
 line-height: 1.5;
 width: 10%;
 border:2px solid  rgb(6, 6, 248)  ;
-padding:3px 6px;
+padding:3px 0px;
 }
 .form-control{
  
@@ -69,5 +69,5 @@ padding:3px 6px;
 .container {
   margin: 30px auto;
     padding: 30px;
-   float: right;
+   float: center;
 }
