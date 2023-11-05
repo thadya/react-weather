@@ -1,10 +1,13 @@
 .Weather{
   border: 1px solid #dadde1;
   border-radius: 10px;
-  padding: 20px;
+  padding: 30px;
   
   font-family: Arial, Helvetica, sans-serif;
   color: #70757a;
+  margin: 30px auto;
+  padding: 30px;
+  width: 30%;
 
 }
 
@@ -66,14 +69,9 @@ padding:3px 0px;
   line-height: 1.5;
   padding: 3px 0px;
 }
-.container {
-  margin: 30px auto;
-    padding: 30px;
-   float: center;
-}
-col-6.ul
+
+div.col-6.ul
 
 {
-    flex: 0 0 auto;
-    width: 50%;
+  float: left;
 }
