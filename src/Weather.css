@@ -58,11 +58,6 @@ color: white;
 line-height: 1.5;
 width: 10%;
 }
-.col-6.ul{
-
-  float: left;
-  display: flex;
-}
 .form-control{
  
   width: 50%;
