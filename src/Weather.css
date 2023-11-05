@@ -53,9 +53,6 @@
   line-height: 1;
 }
 input.btn.btn-primary.w-100{
-
-  position: absolute;
-}
-form.input{
-  width: 100%;
+background: rgb(6, 6, 248);
+color: white;
 }
