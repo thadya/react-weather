@@ -12,6 +12,7 @@ export default function App() {
         <a
   href="https://github.com/thadya/weather-app/tree/master"
 target="_blank"
+rel="noreferrer"
 >Open-source code </a>
 by Thato Gumbo and hosted on
 <a href="https://clever-squirrel-4083ed.netlify.app/"> netlify</a>
