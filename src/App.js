@@ -9,14 +9,12 @@ export default function App() {
         <h2>WEATHER APP</h2>
         <Weather defaultCity="London" />
         <footer>
-          This project was coded by Thato Gumbo and is open sourced on{" "}
-          <a
-            href="https://github.com/thadya/reactapp"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Github
-          </a>
+        <a
+  href="https://github.com/thadya/weather-app/tree/master"
+target="_blank"
+>Open-source code </a>
+by Thato Gumbo and hosted on
+<a href="https://clever-squirrel-4083ed.netlify.app/"> netlify</a>
         </footer>
       </div>
     </div>
